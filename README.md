@@ -61,20 +61,6 @@ KTPMGKI/
 
 ---
 
-## ⭐ Hướng dẫn thêm ảnh minh họa
-
-1. Tạo thư mục `/screenshots` trong dự án.
-2. Thêm ảnh PNG/JPG.
-3. Đẩy ảnh lên GitHub:
-
-```bash
-mkdir screenshots
-mv your-image.png screenshots/
-git add screenshots/
-git commit -m "Thêm ảnh minh họa gameplay"
-git push origin main
-```
-
 ---
 
 ## 📌 Ghi chú
