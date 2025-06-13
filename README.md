@@ -28,8 +28,6 @@ Dự án này là một game dạng **Mario** đơn giản được phát triể
 
 ## 📸 Hình ảnh
 
-> 💡 Bạn cần tạo thư mục `screenshots/` trong repo GitHub và đưa ảnh vào đó.
-
 | Giao diện | Mô tả |
 |----------|------|
 | ![Start](https://github.com/NguyenDuyQuang2005/KTPMGKI/blob/main/2c4a5747-8f6c-4285-bbdf-dac6b59a677c.jpg?raw=true) | Màn hình bắt đầu |
@@ -54,10 +52,12 @@ KTPMGKI/
 
 ## 🧑‍💻 Tác giả
 
-**Nguyễn Duy Quang**  
-📧 [nguyenduyquang2005@gmail.com](mailto:nguyenduyquang2005@gmail.com)  
+**Nguyễn Duy Quang** 
+📧[nguyenduyquang2005@gmail.com](mailto:nguyenduyquang2005@gmail.com)  
 🔗 [GitHub Repo](https://github.com/NguyenDuyQuang2005/KTPMGKI)
-
+**Khiếu Minh Quang **
+📧.[Khieuminhquang2004@gmail.com].(mailto:Khieuminhquang2004@gmail.com).
+🔗 [GitHub Repo](https://github.com/NguyenDuyQuang2005/KTPMGKI)
 ---
 
 ---
