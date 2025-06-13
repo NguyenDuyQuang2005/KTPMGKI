@@ -54,7 +54,7 @@ KTPMGKI/
 
 **Nguyễn Duy Quang** 
 
-📧[nguyenduyquang2005@gmail.com](mailto:nguyenduyquang2005@gmail.com)  
+📧[nguyenduyquang892005@gmail.com](mailto:nguyenduyquang2005@gmail.com)  
 
 🔗 [GitHub Repo](https://github.com/NguyenDuyQuang2005/KTPMGKI)
 
