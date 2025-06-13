@@ -3,7 +3,7 @@
 
 Dự án này là một game dạng **Mario** đơn giản được phát triển bằng **Unity** và **C#**, mô phỏng lại phong cách platformer cổ điển.
 
-![Ảnh demo][(https://raw.githubusercontent.com/NguyenDuyQuang2005/KTPMGKI/main/screenshots/demo1.png](https://github.com/NguyenDuyQuang2005/KTPMGKI/blob/main/93e4caab-f29b-4ba2-ac33-40d698208bb0.jpg))
+![Ảnh demo][https://github.com/NguyenDuyQuang2005/KTPMGKI/blob/main/93e4caab-f29b-4ba2-ac33-40d698208bb0.jpg?raw=true)
 
 ---
 
@@ -32,8 +32,8 @@ Dự án này là một game dạng **Mario** đơn giản được phát triể
 
 | Giao diện | Mô tả |
 |----------|------|
-| ![Start]([https://raw.githubusercontent.com/NguyenDuyQuang2005/KTPMGKI/main/screenshots/start.png](https://github.com/NguyenDuyQuang2005/KTPMGKI/blob/main/2c4a5747-8f6c-4285-bbdf-dac6b59a677c.jpg)) | Màn hình bắt đầu |
-| ![Gameplay]([https://raw.githubusercontent.com/NguyenDuyQuang2005/KTPMGKI/main/screenshots/gameplay.png](https://github.com/NguyenDuyQuang2005/KTPMGKI/blob/main/93eb463f-3931-4859-ae1e-3d06cb302faf.jpg)) | Giao diện khi chơi |
+| ![Start](https://github.com/NguyenDuyQuang2005/KTPMGKI/blob/main/2c4a5747-8f6c-4285-bbdf-dac6b59a677c.jpg?raw=true) | Màn hình bắt đầu |
+| ![Gameplay](https://github.com/NguyenDuyQuang2005/KTPMGKI/blob/main/93eb463f-3931-4859-ae1e-3d06cb302faf.jpg?raw=true) | Giao diện khi chơi |
 | ![Game Over](https://raw.githubusercontent.com/NguyenDuyQuang2005/KTPMGKI/main/screenshots/gameover.png) | Màn hình kết thúc game |
 
 ---
