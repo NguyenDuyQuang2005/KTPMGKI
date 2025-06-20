@@ -3,8 +3,7 @@
 
 Dự án này là một game dạng **Mario** đơn giản được phát triển bằng **Unity** và **C#**, mô phỏng lại phong cách platformer cổ điển.
 
-![Ảnh demo](https://github.com/NguyenDuyQuang2005/KTPMGKI/blob/main/hinhanhgit/93e4caab-f29b-4ba2-ac33-40d698208bb0.jpg?raw=true)
-).
+![Ảnh demo](https://github.com/NguyenDuyQuang2005/KTPMGKI/blob/main/hinhanhgit/93e4caab-f29b-4ba2-ac33-40d698208bb0.jpg?raw=true)| Màn hình làm game|
 
 ---
 
