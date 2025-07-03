@@ -59,12 +59,6 @@ KTPMGKI/
 
 🔗 [GitHub Repo](https://github.com/NguyenDuyQuang2005/KTPMGKI)
 
-**Khiếu Minh Quang **
-
-📧[Khieuminhquang2004@gmail.com](mailto:Khieuminhquang2004@gmail.com)
-
-🔗 [GitHub Repo](https://github.com/NguyenDuyQuang2005/KTPMGKI)
-
 ---
 
 ---
